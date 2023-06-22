@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\liuhaobin\source\repos\ConsoleApplication2\ConsoleApplication2\server.cpp(150,12): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\liuhaobin\source\repos\ConsoleApplication2\ConsoleApplication2\server.cpp(158,83): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> C:\Users\liuhaobin\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
